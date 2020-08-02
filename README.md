@@ -1,7 +1,7 @@
 # ebayCollectibles
 
 
-Analyzes vintage items and tracks their prices locally using eBay’s RESTful API. Provides easy access to all item statistics that can be retrieved at anytime without having to reissue more API requests. 
+Analyzes vintage items and tracks their prices locally using eBay’s RESTful API. Provides access to all item statistics that can be retrieved at anytime without having to reissue more API requests through the usage of pickle files in Python.
 
 •	Local logging and storage system that helps track and avoid errors
 

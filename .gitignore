@@ -1,3 +1,5 @@
 ebay.yaml
 Must Have.txt
 /app
+/.vscode
+/__pycache__
